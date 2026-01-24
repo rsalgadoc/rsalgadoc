@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🌱 I’m currently learning for AWS Certified Developer Associate DVA-C02<br>
 
+
+<h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/c3856623-103f-49ea-99ff-f71556026c13" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f0c6b711-2ae5-4224-a5e0-98f0e867b30f" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
