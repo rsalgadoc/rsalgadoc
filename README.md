@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 - 🌱 I’m currently learning for AWS Certified Developer Associate DVA-C02<br>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rodrigo-salgado-cordova) 
