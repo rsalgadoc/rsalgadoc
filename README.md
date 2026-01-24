@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm currently learning for AWS Certified Developer Associate DVA-C02<br>
+- 🌱 I’m currently learning for AWS Certified Developer Associate DVA-C02<br>
 
 
 ## 🌐 Socials:
