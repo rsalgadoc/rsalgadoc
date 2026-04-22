@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 # 📚 My Last badges
 <!--START_SECTION:badges-->
 <!--START_SECTION:badges-->
-<p align="left">
-  <a href="https://www.credly.com/badges/1f2dd61b-52ad-4ecc-a5fd-54012355450f" title="AWS Certified Developer – Associate"><img src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="80" height="80"></a><a href="https://www.credly.com/badges/c3856623-103f-49ea-99ff-f71556026c13" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="80" height="80"></a><a href="https://www.credly.com/badges/7735b57e-1f04-4b7c-a279-990ca83c1dc3" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
-</p>
+[![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/1f2dd61b-52ad-4ecc-a5fd-54012355450f) [![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/c3856623-103f-49ea-99ff-f71556026c13) [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/7735b57e-1f04-4b7c-a279-990ca83c1dc3) 
 <!--END_SECTION:badges-->
 <!--END_SECTION:badges-->
 
